@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alex Alder
-- 👀 I’m interested in designing flutter front end applications or python backend
-- 🌱 I’m currently learning multithreading and application concurrency
+- 👀 I’m interested in data based applications
+- 🌱 I’m currently advancing my knowledge on everything wordpress, and web technologies
 - 💞️ I’m looking to collaborate on anything! 
-- 📫 Contact me at: alex@alderautomations.com
+- 📫 Contact me at: alex@alexalder.dev
 
 <!---
 alex90271/alex90271 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
